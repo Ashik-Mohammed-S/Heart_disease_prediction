@@ -1,0 +1,21 @@
+{
+  "source_repository": "nisaunnu/Heart_Disease_Diagnosis_Model",
+  "commit": "ab613ace7a203a1eb584c438fdb7a4d9c22f47b4",
+  "license": null,
+  "files": [
+    {
+      "filename": "heart_v2.csv",
+      "url": "https://raw.githubusercontent.com/nisaunnu/Heart_Disease_Diagnosis_Model/ab613ace7a203a1eb584c438fdb7a4d9c22f47b4/heart_v2.csv",
+      "sha256": "19af661a75209322673d7adf766d6a8ff560041b5a962eb92d8317bae3fa45e0",
+      "bytes": 4355,
+      "rows": 270,
+      "columns": [
+        "age",
+        "sex",
+        "BP",
+        "cholestrol",
+        "heart disease"
+      ]
+    }
+  ]
+}
